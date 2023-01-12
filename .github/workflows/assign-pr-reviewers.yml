@@ -13,5 +13,5 @@ jobs:
       - name: Run assignment of reviewer team
         uses: nikosmoum/auto-assign-reviewer-team@v0.5
         with:
-#          githubToken: ${{ secrets.GITHUB_TOKEN }}
+          githubToken: ${{ secrets.GITHUB_TOKEN }}
           teamName: 'zhouyuan-work/zy0112'
