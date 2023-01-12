@@ -2,5 +2,4 @@ addAssignees: author
 
 addReviewers: true
 reviewers:
-  - gshu-cluster
   - suvt-gshu
