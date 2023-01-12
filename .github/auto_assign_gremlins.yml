@@ -2,11 +2,5 @@ addAssignees: author
 
 addReviewers: true
 reviewers:
-#  - zhouyuan-work/zy0112
   - gshu-cluster
-#  - zy0112
 
-#useReviewGroups: true
-#reviewGroups:
-#  groupA:
-#    - zhouyuan-work/zy0112
