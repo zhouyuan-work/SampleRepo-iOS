@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: kentaro-m/auto-assign-action@v1.2.4
-       with:
+        with:
           configuration-path: ".github/auto_assign_gremlins.yml"
       - name: Run assignment of reviewer team
         uses: nikosmoum/auto-assign-reviewer-team@v0.5
