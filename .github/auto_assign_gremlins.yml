@@ -1,0 +1,8 @@
+addReviewers: true
+
+addAssignees: author
+
+reviewers:
+  - zhouyuan-work/zy0112
+  - gshu-cluster
+
